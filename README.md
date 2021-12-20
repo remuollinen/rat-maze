@@ -3,8 +3,6 @@
 - A 4x4 matrix where the program finds all the possible ways to go from source (top left) to destination (bottom right)
 - A final assignment of Data Structures course @ Business College Helsinki
 
-![screenshot of the application](screenshot.png)
-
 ## Functionalities
 
 - Generate a new random maze
