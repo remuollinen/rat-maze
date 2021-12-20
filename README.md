@@ -3,6 +3,10 @@
 - A 4x4 matrix where the program finds all the possible ways to go from source (top left) to destination (bottom right)
 - A final assignment of Data Structures course @ Business College Helsinki
 
+
+https://user-images.githubusercontent.com/75204814/146739476-9b25a3f8-d7d4-46d1-905f-87eef1baecae.mov
+
+
 ## Functionalities
 
 - Generate a new random maze
