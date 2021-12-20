@@ -6,7 +6,7 @@ import Path from "./Path";
 import rat from "../../src/rat.svg";
 import cheese from "../../src/cheese.svg";
 
-export default class Maze extends Component {
+class Maze extends Component {
 	matrix = [2];
 	paths = [];
 	idx = 0;
@@ -201,3 +201,5 @@ export default class Maze extends Component {
 		);
 	}
 }
+
+export default Maze;
