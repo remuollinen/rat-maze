@@ -187,14 +187,12 @@ export default class Maze extends Component {
 
 				<Button
 					onClick={this.handleClick}
-					variant="contained"
-					style={{ margin: "1rem" }}
+					style={{ margin: "1rem", backgroundColor: "lightgrey" }}
 				>
 					Generate new maze
 				</Button>
 				<Button
 					onClick={this.findPaths}
-					variant="contained"
 					style={{ margin: "1rem", backgroundColor: "#80ed99" }}
 				>
 					Find the cheese
